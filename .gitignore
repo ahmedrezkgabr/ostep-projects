@@ -1,4 +1,5 @@
 .vscode/
-initial-utilities/wzip/wzip
 initial-utilities/wcat/wcat
 initial-utilities/wgrep/wgrep
+initial-utilities/wzip/wzip
+initial-utilities/wunzip/wunzip
